@@ -1,2 +1,2 @@
-# martexte.github.io
-My portfolio. ;^)
+# Da GitHub's Portfolio
+Some readme stuff, will add more publications later.
