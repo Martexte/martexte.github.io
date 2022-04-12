@@ -1,2 +1,5 @@
-# Da GitHub's Portfolio
-Some readme stuff, will add more publications later.
+# Introduction
+A dedicated GitHub website where that is a portfolio.
+
+# Content
+*to be added later
