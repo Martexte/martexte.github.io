@@ -1,5 +1,5 @@
 # Introduction
-A dedicated GitHub website where that is a portfolio.
+A dedicated portfolio GitHub website.
 
 # Content
 *to be added later
